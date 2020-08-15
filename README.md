@@ -29,43 +29,43 @@
 <h3 align="center">OpenVPN Configs Updater</h3>
 
   ```html
-wget https://github.com/johndesu090/AutoScriptDS/raw/master/configupdate.sh && chmod +x configupdate.sh && ./configupdate.sh
+wget https://github.com/daenghunter/-AutoScript/raw/master/configupdate.sh && chmod +x configupdate.sh && ./configupdate.sh
   ```
 <h3 align="center">Installation (Default)</h3>
 
   ```html
-wget https://github.com/johndesu090/AutoScriptDS/raw/master/DS && chmod +x DS && ./DS
+wget https://github.com/daenghunter/-AutoScript/raw/master/DS && chmod +x DS && ./DS
   ```
   
 <h3 align="center">Installation (Experimental)</h3>
 
   ```html
-wget https://github.com/johndesu090/AutoScriptDS/raw/master/DSE && chmod +x DSE && ./DSE
+wget https://github.com/daenghunter/-AutoScript/raw/master/DSE && chmod +x DSE && ./DSE
   ```
   
 <h3 align="center">Installation (Single Cert Apache)</h3>
 
   ```html
-wget https://github.com/johndesu090/AutoScriptDS/raw/master/DSCA && chmod +x DSCA && ./DSCA
+wget https://github.com/daenghunter/-AutoScript/raw/master/DSCA && chmod +x DSCA && ./DSCA
   ```
   
 <h3 align="center">Installation (Single Cert Nginx)</h3>
 
   ```html
-wget https://github.com/johndesu090/AutoScriptDS/raw/master/DSCAN && chmod +x DSCAN && ./DSCAN
+wget https://github.com/daenghunter/-AutoScript/raw/master/DSCAN && chmod +x DSCAN && ./DSCAN
   ```
 
 
 <h3 align="center">Installation (Single Cert w0pw0p)</h3>
 
   ```html
-wget https://github.com/johndesu090/AutoScriptDS/raw/master/DSWOP && chmod +x DSWOP && ./DSWOP
+wget https://github.com/daenghunter/-AutoScript/raw/master/DSWOP && chmod +x DSWOP && ./DSWOP
   ```
 
 <h3 align="center">Installation OpenVPN-Monitor</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDS/master/Files/Plugins/ovpnmonitor.sh && chmod +x ovpnmonitor.sh && ./ovpnmonitor.sh
+wget https://github.com/daenghunter/-AutoScript/master/Files/Plugins/ovpnmonitor.sh && chmod +x ovpnmonitor.sh && ./ovpnmonitor.sh
   ```
 
 
@@ -103,7 +103,7 @@ Recommended OS: Debian 9 Stretch x64
    Installation:
    
 ```html
-wget --no-check-certificate https://raw.githubusercontent.com/johndesu090/AutoScriptDS/master/Files/Plugins/SSR
+wget --no-check-certificate https://github.com/daenghunter/-AutoScript/master/Files/Plugins/SSR
 chmod +x SSR
 ./SSR 2>&1 | tee shadowsocksR.log
 ```
